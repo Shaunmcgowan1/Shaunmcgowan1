@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My first computer was Sinclair ZX81. 
+- ⚡ Fun fact: My first computer was the Sinclair ZX81. 
 
 <!---
 Shaunmcgowan1/Shaunmcgowan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
