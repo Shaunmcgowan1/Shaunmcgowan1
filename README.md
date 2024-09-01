@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shaunmcgowan1
-- 👀 I’m interested in Xbox
+- 👀 I’m interested in Gaming Xbox, PC and handhelds
 - 🌱 I’m currently learning Azure Devops tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
